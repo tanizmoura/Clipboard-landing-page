@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/resposive-landing-page-with-flexbox-MASZc0FMsS)
-- Live Site URL: [Clipboard Landing Page]([https://your-live-site-url.com](https://tanizmoura.github.io/Clipboard-landing-page/))
+- Live Site URL: [Clipboard Landing Page](https://tanizmoura.github.io/Clipboard-landing-page/)
 
 ## My process
 
