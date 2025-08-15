@@ -12,8 +12,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+<img src="assets/images/preview.png">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/resposive-landing-page-with-flexbox-MASZc0FMsS)
+- Live Site URL: [Clipboard Landing Page]([https://your-live-site-url.com](https://tanizmoura.github.io/Clipboard-landing-page/))
 
 ## My process
 
